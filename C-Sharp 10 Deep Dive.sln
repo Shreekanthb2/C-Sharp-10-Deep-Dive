@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp 10 Deep Dive", "C-Sharp 10 Deep Dive.csproj", "{75314945-31B2-4390-9CD6-F71FEC2028CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75314945-31B2-4390-9CD6-F71FEC2028CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75314945-31B2-4390-9CD6-F71FEC2028CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75314945-31B2-4390-9CD6-F71FEC2028CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75314945-31B2-4390-9CD6-F71FEC2028CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1D260E-9753-45C3-AB57-EDF66EBB56BE}
+	EndGlobalSection
+EndGlobal
